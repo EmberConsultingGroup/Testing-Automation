@@ -17,7 +17,7 @@ The build server will execute a task to run the specRunner.html  in a headless b
 
 
 ### Project
-In your projects, checked into source control, make sure you have phantom.exe, PhantomJS.js, specRunner.html, specRunner.js, Jasmine2-teamcityreporter.js and specList.js along with all supporting libraries your project needs.
+In your projects, checked into source control, make sure you have phantom.exe, PhantomJS.js, specRunner.html, specRunner.js, Jasmine2-teamcityreporter.js and specList.js along with all supporting dependencies your specs needs.
 
 *Be sure to change all the paths in the specRunner.html, specRunner.js to match your project paths.*
 
